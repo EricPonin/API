@@ -1,0 +1,12 @@
+id,dni,nombre,apellido,matricula,telefono,email,habilitado
+1,32451523,Paula,Esteban,992511,905863933,paula.esteban@example.com,True
+2,77982514,Antonio,Fuentes,429617,988111539,antonio.fuentes@example.com,True
+3,15077195,Paula,Cortes,584601,971097957,paula.cortes@example.com,True
+4,98706403,Jonathan,Serrano,693256,984430129,jonathan.serrano@example.com,True
+5,32586510,Eric,Ponin,211111,154160338,eric.poninn@example.com,false
+6,59457241,Álvaro,Gallego,439259,922300063,alvaro.gallego@example.com,True
+7,17546832,Alex,Moya,325301,959775649,alex.moya@example.com,True
+8,39344456,Begoña,Martin,380376,997033483,begona.martin@example.com,True
+9,98360447,Margarita,Pastor,674918,918985147,margarita.pastor@example.com,True
+10,37901598,Trinidad,Ortiz,868205,911828061,trinidad.ortiz@example.com,True
+11,55555555,Toto,Caputo,100000,154160338,toto@example.com,false
